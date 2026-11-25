@@ -11,8 +11,18 @@
   "navigation": {
     "groups": [
       {
+        "group": "Emergency Dental Care",
+        "pages": [
+          "swollen-gum-emergency",
+          "wisdom-tooth-emergency",
+          "ada-emergency-dental-standards"
+        ]
+      },
+      {
         "group": "More Topics",
         "pages": [
+          "facial-swelling",
+          "jaw-pain",
           "definitive-dental-reviews"
         ]
       },
