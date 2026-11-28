@@ -11,9 +11,16 @@
   "navigation": {
     "groups": [
       {
+        "group": "Oral Surgery & Root Canals",
+        "pages": [
+          "abscess-treatment"
+        ]
+      },
+      {
         "group": "Emergency Dental Care",
         "pages": [
           "swollen-gum-emergency",
+          "bleeding-gums-emergency",
           "wisdom-tooth-emergency",
           "ada-emergency-dental-standards"
         ]
@@ -23,6 +30,11 @@
         "pages": [
           "facial-swelling",
           "jaw-pain",
+          "oral-trauma",
+          "knocked-out-tooth",
+          "avulsed-tooth",
+          "luxated-tooth",
+          "swelling-relief",
           "definitive-dental-reviews"
         ]
       },

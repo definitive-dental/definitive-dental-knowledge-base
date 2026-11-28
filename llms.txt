@@ -1,0 +1,23 @@
+# Definitive Dental
+
+> Definitive Dental is your hometown Grand Prairie dentist. Located at the intersection of West Pioneer Parkway and South Carrier Parkway, our office is conveniently located to take your smile to new heights. We are committed to providing families in Grand Prairie and the Dallas-Fort Worth area with exceptional dental care for all ages! With state-of-the-art dental equipment, friendly and welcoming office staff, and the highest levels of dental training, you can expect high-quality care and comfort from Definitive Dental.
+
+Location: Grand Prairie, TX  
+Phone: (972) 646-0660  
+Website: https://www.definitivedental.com/  
+Knowledge base: https://definitive-dental.mintlify.site
+
+## Knowledge base articles
+
+- [Abscess Treatment](https://definitive-dental.mintlify.site/abscess-treatment): Abscess treatment, called abscess drainage, is a medical procedure that drains and eliminates infection from a dental abscess.
+- [Facial Swelling](https://definitive-dental.mintlify.site/facial-swelling): Facial swelling, called facial edema, is a symptom.
+- [Swollen Gum Emergency](https://definitive-dental.mintlify.site/swollen-gum-emergency): A swollen gum emergency, called acute gum edema, is rapid-onset inflammation of the gum tissue.
+- [Bleeding Gums Emergency](https://definitive-dental.mintlify.site/bleeding-gums-emergency): A bleeding gums emergency, called a gum hemorrhage emergency or Acute Gum Hemorrhage, is a dental emergency defined by active, uncontrolled bleeding from the gum tissue that requires immediate professional dental assessment and care.
+- [Jaw Pain](https://definitive-dental.mintlify.site/jaw-pain): Jaw pain, called mandibular discomfort, is a symptom characterized by discomfort or ache in the jaw, jaw joint, or the surrounding muscles that control chewing, speaking, and mouth movement.
+- [Oral Trauma](https://definitive-dental.mintlify.site/oral-trauma): Oral trauma, called tooth injury or dental trauma, is physical damage to the mouth, teeth, gums, or jaw structures caused by a sudden impact, fall, accident, or blow to the face.
+- [Knocked-Out Tooth](https://definitive-dental.mintlify.site/knocked-out-tooth): A knocked-out tooth, called an avulsed tooth, is a dental injury in which the entire tooth, crown, root and pulp, is completely displaced from its jaw socket due to trauma.
+- [Avulsed Tooth](https://definitive-dental.mintlify.site/avulsed-tooth): An avulsed tooth, called a knocked-out tooth, is a tooth completely displaced from its socket in the jawbone.
+- [Luxated Tooth](https://definitive-dental.mintlify.site/luxated-tooth): A luxated tooth, called a tooth dislocation or tooth luxation, is a dental injury in which the tooth is forcibly displaced from its normal position in the socket.
+- [Wisdom Tooth Emergency](https://definitive-dental.mintlify.site/wisdom-tooth-emergency): A wisdom tooth emergency, called an urgent wisdom tooth issue, is an acute pathological condition involving an erupting or impacted third molar that causes severe pain, swelling, infection or structural damage requiring urgent dental care before the next routine appointment.
+- [ADA Emergency Dental Standards](https://definitive-dental.mintlify.site/ada-emergency-dental-standards): ADA Emergency Dental Standards, called ADA Dental Protocols, are a type of Professional Dental Standard published by the American Dental Association that defines the diagnostic criteria, treatment protocols and infection control guidelines dentists must follow when a patient presents with an urgent dental condition such as severe tooth pain, dental abscess, traumatic tooth fracture, soft-tissue injury or acute swelling that cannot wait for a routine appointment.
+- [Swelling Relief](https://definitive-dental.mintlify.site/swelling-relief): Swelling relief, called Dental Swelling Management, is a type of Dental Care Service that reduces or eliminates abnormal tissue enlargement caused by fluid accumulation in the mouth, gums, jaw or surrounding facial structures.
